@@ -25,7 +25,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@cmk/media-manager",
+  "name": "@catalogmykit/media-manager",
   "author": "Nick McLean",
   "module": "dist/media-manager.esm.js",
   "size-limit": [
