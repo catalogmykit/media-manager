@@ -52,7 +52,7 @@ export const MediaManager: FC<ParentContext> = props => {
   });
 
   useEffect(() => {
-    console.log('--------------- Media manager ----------------')
+    console.log('--------------- Media manager section----------------')
   }, [])
 
   return (
@@ -81,7 +81,6 @@ export const MediaManager: FC<ParentContext> = props => {
       }}
     >
       <Modal
-        backdrop={props.backdrop || true}
         visible={props.visible}
         fullscreen={fullscreen}
         size="lg"
