@@ -43,7 +43,7 @@
     "@coreui/icons": ">=2.0.1",
     "@coreui/icons-react": ">=2.0.1",
     "@coreui/react": ">=4.1.2",
-    "@coreui/coreui": ">=4.1.0",
+    "@coreui/coreui": "4.2.6",
     "@coreui/utils": ">=1.3.1",
     "core-js": ">=3.21.1",
     "react": ">=17",
@@ -52,7 +52,7 @@
   "devDependencies": {
     "@coreui/icons": "^2.1.0",
     "@coreui/icons-react": "^2.0.1",
-    "@coreui/coreui": ">=4.1.0",
+    "@coreui/coreui": "4.2.6",
     "@coreui/react": "^4.1.2",
     "@coreui/utils": ">=1.3.1",
     "core-js": ">=3.21.1",
